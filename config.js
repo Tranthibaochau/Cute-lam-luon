@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Cậu ngồi trước màn hình ơi!',
     introDesc: `Anh lỡ
     Thích 
-    Em mất ồi
+    Em mất rồi
     Giờ sao đây`,
     btnIntro: 'An vo',
     title: 'Hay là em làm girl friend của anh nha 😙',
