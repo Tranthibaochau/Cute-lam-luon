@@ -14,6 +14,6 @@ const CONFIG = {
     reply: ':((',
     mess: 'Không biết em ghi gì',
     messDesc: 'Nhưng mà anh tin là thật lòng😤😤 ',
-    btnAccept: 'Phai khong ',
+    btnAccept: 'Phai khong',
     messLink: 'http://facebook.com' //chau1st
 }
