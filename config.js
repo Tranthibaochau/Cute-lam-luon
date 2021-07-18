@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Được không ',
     btnYes: 'Dạ vâng <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Chắc em không ấn vào đây đâu :((',
+    question:'em ấn vô đây vì lí do gì vậy🥺 Thật lòng hay tại ấn từ chối không được😢',
     btnReply: 'Gửi cho anh <3',
     reply: ':((',
-    mess: 'Chắc anh thất bại rồi',
-    messDesc: 'Sao mà anh cua được mày',
+    mess: 'không biết là em ghi gì',
+    messDesc: 'nhưng mà anh hy vọng là thật lòng😣',
     btnAccept: 'An vo',
-    messLink: 'http://facebook.com' //. VD: https://m.me/nam.nodemy
+    messLink: 'http://facebook.com' //chau1st. VD: https://m.me/nam.nodemy
 }
