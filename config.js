@@ -14,6 +14,6 @@ const CONFIG = {
     reply: ':((',
     mess: 'chắc anh thất bại rồi ',
     messDesc: 'sao mà anh cua được mày',
-    btnAccept: 'An vo',
+    btnAccept: 'An vo ',
     messLink: 'http://facebook.com' //chau1st. VD: https://m.me/nam.nodemy
 }
